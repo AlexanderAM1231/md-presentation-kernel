@@ -76,3 +76,6 @@ This runs assertions verifying slide dividing regexes, inline HTML conversions, 
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by alibasit-lgtm4.*
