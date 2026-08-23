@@ -1,0 +1,19 @@
+{
+  "name": "md-presentation-kernel",
+  "version": "1.0.0",
+  "description": "A zero-dependency CLI tool to compile Markdown into interactive, self-contained HTML slide presentations.",
+  "type": "module",
+  "main": "src/presenter.js",
+  "scripts": {
+    "start": "node src/presenter.js",
+    "test": "node --test tests/"
+  },
+  "keywords": [
+    "markdown",
+    "slideshow",
+    "presentation",
+    "compiler"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
